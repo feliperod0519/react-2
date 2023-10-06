@@ -6,6 +6,10 @@ function ExpenseItem() {
         <h2>Car Insurance</h2>
         <div>$100</div>
       </div>
+      <div>
+        <h2>Minou</h2>
+        <div>$3000</div>
+      </div>
     </div>
   );
 }
